@@ -29,4 +29,4 @@ The earlier [commitment-based knowledge-distillation project](https://github.com
 
 ## Citation and archive
 
-Use [CITATION.cff](CITATION.cff). A new Zenodo DOI is pending deposit verification; the earlier baseline DOI is not this study's DOI.
+Use [CITATION.cff](CITATION.cff). The independent preprint and supplementary reproduction package are archived at **[10.5281/zenodo.23851318](https://doi.org/10.5281/zenodo.23851318)**. The earlier baseline DOI is not this study's DOI. See [PUBLICATION.md](PUBLICATION.md) for the archive history and exact file hashes.

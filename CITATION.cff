@@ -17,3 +17,17 @@ abstract: >-
   of 200/2048, and a subsequent census with 158 disagreements.
   The guarantee assumes a fixed disagreement table and uniform sampling
   without replacement. Licensing is scoped in LICENSES.md.
+
+preferred-citation:
+  type: article
+  title: "Commitment-Based Teacher-Student Fidelity Auditing with Public Randomness and Finite-Population Certification"
+  authors:
+    - family-names: Rufino
+      given-names: Antonio
+      affiliation: "Independent Researcher, Brazil"
+      orcid: "https://orcid.org/0009-0004-1767-8165"
+  doi: "10.5281/zenodo.23851318"
+  journal: "Zenodo"
+  year: 2026
+  date-published: 2026-11-01
+  url: "https://zenodo.org/records/23851318"
